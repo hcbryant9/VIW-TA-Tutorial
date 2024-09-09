@@ -1,2 +1,2 @@
-# VIW-TA-Tutorial
- hello world
+# VIW Tutorials
+VIW or Virtual Interactive Worlds is a course taught by Semi Ryu at Virginia Commonwealth University. It was inspired by the Building Virtual Worlds class she attended while at Carnegie Mellon taught by the late Randy Pausch. As A former student of this class I was happy to be hired as a Technical Assistant for this course. This repo contains all tutorials I created while being TA.
